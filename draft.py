@@ -8,3 +8,8 @@ print(s[-1])
 
 nums1 = [5, 2, 1, 7, 9, 10]
 print(sorted(nums1))
+
+hashmap = {25: 1, 30: 2}
+print(25 in hashmap)
+print(1 in hashmap)
+print(30 in hashmap)
